@@ -1,2 +1,2 @@
-# cuddly-chainsaw
+# Cuddly-Chainsaw
 Some stuff
