@@ -1,2 +1,3 @@
 # Cuddly-Chainsaw
-Some stuff
+
+My learning repository! :D
